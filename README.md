@@ -1,4 +1,4 @@
 # demo
 just a demo repo
 <br>
-Authur : Aditya Shrivastav
+Authur : Aditya Shrivastav(valjiman)
